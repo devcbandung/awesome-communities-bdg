@@ -31,7 +31,6 @@ Topik: Bahasa pemrograman R dan ilmu data menggunakan R \
 Meetup: Informasi mengenai meetup rutin tersedia di laman [Meetup.com](https://www.meetup.com/r-indonesia/) \
 Grup Telegram: https://t.me/GNURIndonesia \
 GitHub: https://github.com/indo-r \
-Web: https://r-indonesia.id \
 Twitter: [@r_indonesia_](https://twitter.com/r_indonesia_) \
 Narahubung: [Muhammad Aswan Syahputra](https://t.me/aswansyahputra)
 
