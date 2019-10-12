@@ -20,7 +20,7 @@ Silakan tambahkan komunitas dan startup tech yang kalian tahu. Ini agar ekosiste
 Topik: General (Web Dev, Backend Dev, Data Science, dan lainnya!) \
 Meetup: Bulanan, info ada di grup Facebook di bawah \
 Grup Facebook: https://www.facebook.com/groups/DevCBandung \
-Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003) dan [Michaela Sandra](https://www.facebook.com/michaela.sandra.18)
+Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003) dan [Michaela Sandra](https://www.facebook.com/michaela.sandra.18) \
 
 <br>
 
