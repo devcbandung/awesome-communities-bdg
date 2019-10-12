@@ -35,6 +35,16 @@ Tech Stack: React/React Native, Scala, Golang, Nodejs \
 Alamat: Paskal Hypersquare Blok A53 \
 Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003)
 
+<br>
+<img src="https://avatars0.githubusercontent.com/u/47621574?s=200&v=4" height="168px" width="168px" align="left" alt="" />
+
+**WorkLife&Beyond**\
+Situs: https://www.wlb.co.id \
+Bidang: Human Capital Ecosystem, Online Learning System, Social Media Platform \
+Tech Stack: React, GraphQL, Nodejs, Java, Flutter \
+Alamat: Jln Cijaura Hilir No. 57 \
+Narahubung: [Randy Vianda Putra](https://www.facebook.com/aweutist)
+
 Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan startup lainnya!
 
 ## Lainnya
