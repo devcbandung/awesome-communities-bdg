@@ -22,13 +22,13 @@ Meetup: Bulanan, info ada di grup Facebook di bawah \
 Grup Facebook: https://www.facebook.com/groups/DevCBandung \
 Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003) dan [Michaela Sandra](https://www.facebook.com/michaela.sandra.18)
 
-Tambahkan komuntas lain dengan [membuat Pull Request](https://github.com/devcbandung/awesome-communities-bdg/pulls)!
+Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan komunitas lainnya!
 
 ## Startup
 
 Belum ada startup di sini.
 
-Tambahkan startup lain dengan [membuat Pull Request](https://github.com/devcbandung/awesome-communities-bdg/pulls)! 
+Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan startup lainnya!
 
 ## Lainnya
 
