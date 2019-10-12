@@ -33,7 +33,16 @@ Situs: https://www.sorabel.com \
 Bidang: Fashion Lifestyle e-commerce \
 Tech Stack: React/React Native, Scala, Golang, Nodejs \
 Alamat: Paskal Hypersquare Blok A53 \
-Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003)
+Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003) \
+\
+<img src="https://user-images.githubusercontent.com/9217338/66700434-51decf80-ed1a-11e9-9882-fbd576f640d2.png" height="145px" width="168px" align="left" alt="" />
+
+**Blibli.com**\
+Situs: https://www.blibli.com \
+Bidang: e-commerce \
+Tech Stack: Java, Scala, Golang, Vue, React, MongoDB \
+Alamat: RSO Djarum, Soekarno-Hatta 436A, Regol \
+Narahubung: [Afrizal Fikri](https://www.facebook.com/icalFikr)
 
 Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan startup lainnya!
 
