@@ -22,6 +22,19 @@ Meetup: Bulanan, info ada di grup Facebook di bawah \
 Grup Facebook: https://www.facebook.com/groups/DevCBandung \
 Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003) dan [Michaela Sandra](https://www.facebook.com/michaela.sandra.18)
 
+<br>
+
+<img src="https://raw.githubusercontent.com/indo-r/logo/master/r-indonesia.png" width="168px" align="left" alt="" />
+
+**Komunitas R Indonesia**\
+Topik: Bahasa pemrograman R dan ilmu data menggunakan R \
+Meetup: Informasi mengenai meetup rutin tersedia di laman [Meetup.com](https://www.meetup.com/r-indonesia/) \
+Grup Telegram: https://t.me/GNURIndonesia \
+GitHub: https://github.com/indo-r \
+Web: https://r-indonesia.id \
+Twitter: [@r_indonesia_](https://twitter.com/r_indonesia_) \
+Narahubung: [Muhammad Aswan Syahputra](https://t.me/aswansyahputra)
+
 Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan komunitas lainnya!
 
 ## Startup
