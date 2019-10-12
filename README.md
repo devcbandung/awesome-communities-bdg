@@ -26,7 +26,14 @@ Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan komunitas lainnya!
 
 ## Startup
 
-Belum ada startup di sini.
+<img src="https://user-images.githubusercontent.com/5902356/66690258-18c24300-ecb9-11e9-825b-c5b7de675ceb.png" height="168px" width="168px" align="left" alt="" />
+
+**Sorabel / Sale Stock**
+Situs: https://www.sorabel.com \
+Bidang: Fashion Lifestyle e-commerce \
+Tech Stack: React/React Native, Scala, Golang, Nodejs \
+Alamat: Paskal Hypersquare Blok A53 \
+Narahubung: [Ahmad Zaky](https://www.facebook.com/azaky003)
 
 Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan startup lainnya!
 
