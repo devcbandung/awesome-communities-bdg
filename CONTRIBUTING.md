@@ -7,11 +7,11 @@ Cara menambahkan entri ke daftar ini sangat mudah:
 0. Cari komuntas/startup yang ingin kamu tambahkan! **Pastikan komunitas/startup tersebut berbasis tech**.
 1. Hubungi pihak komunitas/startup tersebut, agar mereka tahu kalau akan ditambahkan di daftar ini. Dan pastikan bahwa pihak terkait sudah menyetujui apapun yang ditambahkan ke daftar ini, terutama saat mencantumkan kontak narahubung.
 2. Fork (ada di kanan atas) repository ini
-3. Tambahkan komunitas/startup di README.md, dengan format sebagai berikut:
+3. Tambahkan komunitas/startup di README.md, dengan format sebagai berikut. Silakan tambahkan keterangan lain jika ada. Contohnya: GitHub, Website, dll.
 
 Untuk Komunitas:
 ```markdown
-<img src="..." height="168px" width="168px" align="left" alt="" />
+<img src="..." height="128px" width="128px" align="left" alt="" />
 
 **Nama Komunitas**\
 Topik: Apa yang dibahas oleh komunitas ini \
@@ -22,7 +22,7 @@ Narahubung: orang yang bisa dihubungi soal komunitas ini. sangat disarankan lang
 
 Untuk Startup:
 ```markdown
-<img src="..." height="168px" width="168px" align="left" alt="" />
+<img src="..." height="128px" width="128px" align="left" alt="" />
 
 **Nama Startup**\
 Situs: situs startup ini, jika ada \
