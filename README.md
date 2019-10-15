@@ -40,6 +40,14 @@ Meetup: Sebulan 3 Kali\
 Grup: masih kecil, kontak aja narahubung buat di invite, soon public \
 Narahubung: [Yahya F. Al Fatih](https://www.facebook.com/yahya.kimochi), [Galih Pratama](https://www.facebook.com/pratamagalih) dan [Yohanes Isa](https://www.facebook.com/yohanesisa)<br>
 
+<img src="https://raw.githubusercontent.com/AndroidDeveloperBandung/meetup-cantik/master/adb_logo.jpeg" height="128px" width="128px" align="left" alt="" />
+
+**Android Developer Bandung**\
+Topik: Android and Mobile Apps Development \
+Meetup: Bulanan \
+Grup Telegram: http://t.me/androidDevBdg \
+Narahubung: [Deni Rohimat](https://www.facebook.com/derohimat) dan [Esa Firman](https://www.facebook.com/esafirm)
+
 Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan komunitas lainnya!
 
 ## Startup
