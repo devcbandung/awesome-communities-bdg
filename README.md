@@ -40,6 +40,15 @@ Meetup: Sebulan 3 Kali\
 Grup: masih kecil, kontak aja narahubung buat di invite, soon public \
 Narahubung: [Yahya F. Al Fatih](https://www.facebook.com/yahya.kimochi), [Galih Pratama](https://www.facebook.com/pratamagalih) dan [Yohanes Isa](https://www.facebook.com/yohanesisa)<br>
 
+<img src="https://www.cncf.io/wp-content/uploads/2017/12/icon_cncf_twitter.png" height="128px" width="128px" align="left" alt="" />
+
+**Kubernetes/Cloud Native Bandung**\
+Topik: Semua hal terkait [Cloud Native](https://www.cncf.io/) (Microservice, container, CI/CD, dan [banyak lainnya!](https://landscape.cncf.io/)) \
+Meetup: Bulanan (1 bulan 1x) \
+Grup Meetup: https://meetup.com/Kubernetes-and-Cloud-Native-Bandung/ \
+Grup Telegram: https://t.me/kubernetesindonesia dan https://t.me/microserviceid \
+GitHub Repository: https://github.com/cloudnative-id/kubernetes-cloud-native-bandung \
+Narahubung: Telegram Iqbal Syamil [(@iqbalsyamil)](https://t.me/iqbalsyamil), Giri Kuncoro [(@girikuncoro)](https://t.me/girikuncoro), Zufar Dhiyaulhaq [(@zufardhiyaulhaq)](https://t.me/zufardhiyaulhaq), Joshua Bezaleel Abednego [(@joshuabezaleel)](https://t.me/joshuabezaleel) 
 <img src="https://raw.githubusercontent.com/AndroidDeveloperBandung/meetup-cantik/master/adb_logo.jpeg" height="128px" width="128px" align="left" alt="" />
 
 **Android Developer Bandung**\
